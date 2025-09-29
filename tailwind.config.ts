@@ -47,6 +47,13 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        bmw: {
+          blue: "hsl(var(--bmw-blue))",
+          "blue-dark": "hsl(var(--bmw-blue-dark))",
+          silver: "hsl(var(--bmw-silver))",
+          dark: "hsl(var(--bmw-dark))",
+          charcoal: "hsl(var(--bmw-charcoal))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",

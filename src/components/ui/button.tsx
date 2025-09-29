@@ -15,6 +15,9 @@ const buttonVariants = cva(
         secondary: "bg-secondary text-secondary-foreground hover:bg-secondary/80",
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
+        hero: "gradient-accent text-white font-semibold shadow-luxury hover:shadow-xl transition-luxury hover:scale-105",
+        premium: "bg-bmw-silver text-bmw-dark hover:bg-bmw-silver/90 font-semibold",
+        luxury: "bg-transparent border-2 border-bmw-blue text-bmw-blue hover:bg-bmw-blue hover:text-white transition-luxury",
       },
       size: {
         default: "h-10 px-4 py-2",
