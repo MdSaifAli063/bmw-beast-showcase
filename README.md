@@ -1,8 +1,8 @@
 # Welcome to your Lovable project
 
-## Project info
+## Project link
 
-**URL**: https://lovable.dev/projects/6dbac5c2-7501-412c-9b2c-9c63cfff6695
+**URL**: https://bmw-beast-showcase.lovable.app/
 
 ## How can I edit this code?
 
