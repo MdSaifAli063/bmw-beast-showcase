@@ -117,4 +117,43 @@ All colors MUST be HSL.
   .hover-lift {
     @apply transition-luxury hover:transform hover:-translate-y-2 hover:shadow-luxury;
   }
+  
+  .animate-on-scroll {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+  
+  .animate-on-scroll.in-view {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .bmw-logo {
+    width: 40px;
+    height: 40px;
+    background: conic-gradient(from 0deg, hsl(var(--bmw-blue)), hsl(var(--bmw-blue-dark)), transparent, hsl(var(--bmw-blue)));
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .bmw-logo::before {
+    content: 'BMW';
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    letter-spacing: 1px;
+  }
+  
+  .floating-element {
+    animation: float 6s ease-in-out infinite;
+  }
+  
+  .stagger-1 { animation-delay: 0.1s; }
+  .stagger-2 { animation-delay: 0.2s; }
+  .stagger-3 { animation-delay: 0.3s; }
+  .stagger-4 { animation-delay: 0.4s; }
 }
