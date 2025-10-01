@@ -68,9 +68,13 @@ npm run dev
 
 ---
 
-## How can I deploy this project?
+## 🚀 How Can I Deploy This Project?
 
-Simply open [Lovable](https://lovable.dev/projects/6dbac5c2-7501-412c-9b2c-9c63cfff6695) and click on Share -> Publish.
+- Open Lovable
+
+- Go to Share → Publish
+
+---
 
 ## Can I connect a custom domain to my Lovable project?
 
