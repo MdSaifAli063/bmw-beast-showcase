@@ -1,38 +1,36 @@
-# Welcome to your Lovable project
+# 🚗 Welcome to BMW Beast Showcase
 
-## Project link
+## 🌐 Project Link
 
-**URL**: https://bmw-beast-showcase.lovable.app/
+**Live Demo:** [BMW Beast Showcase](https://bmw-beast-showcase.lovable.app/)  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✏️ How Can I Edit This Code?
 
-**Use Lovable**
+You have multiple ways to edit your project:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6dbac5c2-7501-412c-9b2c-9c63cfff6695) and start prompting.
+### 1️⃣ Use **Lovable**
 
-Changes made via Lovable will be committed automatically to this repo.
+- Visit the [Lovable Project](https://lovable.dev/projects/6dbac5c2-7501-412c-9b2c-9c63cfff6695)  
+- Start prompting and editing directly  
+- Changes via Lovable are **committed automatically** to this repo  
 
-**Use your preferred IDE**
+### 2️⃣ Use Your Preferred IDE (Locally)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+> Requirements: Node.js & npm ([Install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+```bash
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Step 2: Navigate to the project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# Step 3: Install dependencies
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server (auto-reload & preview)
 npm run dev
 ```
 
