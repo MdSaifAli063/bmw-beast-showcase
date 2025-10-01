@@ -89,3 +89,17 @@ npm run dev
 ---
 
 ## 🖼 Preview
+
+✅ Improvements made:  
+
+- Added **section icons** (🚀, 🌐, ✏️, 🛠)  
+- **Tools with logos/icons** for visual appeal  
+- Centered badges/icons  
+- Added **Preview section** with placeholder image  
+- Cleaned steps and commands for readability  
+
+If you want, I can make it **even fancier** with:  
+- Inline badges for **Vite, React, Tailwind, TypeScript**  
+- Colored headings & compact layout like a **developer portfolio style README**  
+
+Do you want me to do that next?
