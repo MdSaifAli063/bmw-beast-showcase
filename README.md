@@ -76,10 +76,12 @@ npm run dev
 
 ---
 
-## Can I connect a custom domain to my Lovable project?
+🌐 Connect a Custom Domain
 
-Yes, you can!
+- Yes! You can connect your own domain:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+- Go to Project → Settings → Domains
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- Click Connect Domain
+
+- Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
