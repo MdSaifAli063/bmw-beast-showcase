@@ -42,11 +42,15 @@ npm run dev
 
 - Make changes & commit
 
-4️⃣ Use GitHub Codespaces
+---
+
+## 4️⃣ Use GitHub Codespaces
 
 - Click the Code button → Codespaces tab → New codespace
 
 - Edit and commit changes directly in the Codespace
+
+---
   
 ## What technologies are used for this project?
 
