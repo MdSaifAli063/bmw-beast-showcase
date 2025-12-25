@@ -45,7 +45,6 @@ npm run dev
 ## 4️⃣ Use GitHub Codespaces
 
 - Click the Code button → Codespaces tab → New codespace
-
 - Edit and commit changes directly in the Codespace
 
 ---
@@ -73,8 +72,7 @@ npm run dev
 
 - Yes! You can connect your own domain:
 - Go to Project → Settings → Domains
-- Click Connect Domain
-
+- Click Connect Domain 
 - Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
 
 ---
