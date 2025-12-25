@@ -65,7 +65,6 @@ npm run dev
 ## 🚀 How Can I Deploy This Project?
 
 - Open Lovable
-
 - Go to Share → Publish
 
 ---
