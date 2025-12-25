@@ -37,9 +37,7 @@ npm run dev
 ## 3️⃣ Edit Files Directly on GitHub
 
 - Navigate to the desired file(s)
-
 - Click the Edit (pencil icon)
-
 - Make changes & commit
 
 ---
