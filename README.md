@@ -72,7 +72,6 @@ npm run dev
 ## 🌐 Connect a Custom Domain
 
 - Yes! You can connect your own domain:
-
 - Go to Project → Settings → Domains
 
 - Click Connect Domain
