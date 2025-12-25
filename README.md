@@ -57,13 +57,9 @@ npm run dev
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> </div>
 
 - Vite — Modern frontend tooling & bundler
-
 - TypeScript — Type-safe JavaScript
-
-- React — Frontend UI library
-
+- React — Frontend UI liberary 
 - shadcn-ui — Component library
-
 - Tailwind CSS — Utility-first styling
 
 ---
